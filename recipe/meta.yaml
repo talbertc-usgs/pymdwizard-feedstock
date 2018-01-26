@@ -1,4 +1,4 @@
-{% set version = "2.0.1" %}
+{% set version = "2.0.2" %}
 
 package:
   name: pymdwizard
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/usgs/fort-pymdwizard/releases/download/v{{ version }}/pymdwizard-{{ version }}.tar.gz
-  sha256: c4d0476ad16a2ddf47a89e048b9e42a8f29e0156c9ef5e77bd9faae2bae62a13 
+  sha256: 2B66782A3D386F910739DDCF4E24A9577DC66D9F557040557980399229387533 
 
 build:
   number: 0
